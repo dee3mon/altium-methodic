@@ -25,6 +25,7 @@
 Дополнительное продвинутое
 - [Многоканальный проект](https://github.com/dee3mon/altium-methodic/blob/master/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.pdf) Использование продвинутых возможностей Altium Designer при работе с многоканальными проектами (имеющими повторяющиеся части). К этапу относится материал по раздел "Проверка схемного проекта на глобальном уровне" включительно.
 - [Работа с дифпарами и выравниваем](https://github.com/dee3mon/altium-methodic/blob/master/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%B4%D0%B8%D1%84%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B8%20%D0%B8%20%D0%B2%D1%8B%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC.pdf) Особенности работы с цифровой разводкой. К этапу относится материал по раздел "4. Правила" включительно, относящийся к схеме.
+- [Исполнения в Altium Designer](https://github.com/dee3mon/altium-methodic/blob/master/%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B2%20Altium%20Designer.pdf) Описание приемов построения группового проекта в Altium Designer. К этапу относится материал по раздел "Контроль состава исполнений с применением ActiveBOM" включительно.
 
 Этап 3. Разводка топологии
 
@@ -36,9 +37,15 @@
 Дополнительное продвинутое
 - [Многоканальный проект](https://github.com/dee3mon/altium-methodic/blob/master/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.pdf) Использование продвинутых возможностей Altium Designer при работе с многоканальными проектами (имеющими повторяющиеся части). К этапу относится материал с раздела "Разводка одного канала" и до конца.
 - [Работа с дифпарами и выравниваем](https://github.com/dee3mon/altium-methodic/blob/master/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%B4%D0%B8%D1%84%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B8%20%D0%B8%20%D0%B2%D1%8B%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC.pdf) Особенности работы с цифровой разводкой. К этапу относится материал с раздела "Объединение пары цепей в дифпары" и до конца.
+- [Исполнения в Altium Designer](https://github.com/dee3mon/altium-methodic/blob/master/%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B2%20Altium%20Designer.pdf) Описание приемов построения группового проекта в Altium Designer. К этапу относится материал из раздела "Разводка топологии".
 
 Этап 4. Разработка КД
+
+Основное
 - [Подготовка КД Draftsman_GOSTBOM](https://github.com/dee3mon/altium-methodic/blob/master/%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%9A%D0%94%20Draftsman_GOSTBOM.pdf) Описание процесса разработки комплекта КД с применением расширений GOSTBOM и Draftsman.
+
+Дополнительное продвинутое
+- [Исполнения в Altium Designer](https://github.com/dee3mon/altium-methodic/blob/master/%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B2%20Altium%20Designer.pdf) Описание приемов построения группового проекта в Altium Designer. К этапу относится материал из раздела "Выпуск группового комплекта конструкторский документации".
 
 Этап 5. Подготовка к защите курсового проекта
 - [Подготовка отчета и презентации](https://github.com/dee3mon/altium-methodic/blob/master/%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0%20%D0%B8%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8.pdf) Рекомендации по оформлению отчета и подготовке к защите курсового проекта.
